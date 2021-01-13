@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan NUEVO!",
+      "email": "juannuevo@correo.com",
+      "telefono": "12",
+      "empresa": "12212",
+      "id": 26
+    },
+    {
+      "nombre": "Juan",
+      "email": "carjuanpablo@hotmail.com",
+      "telefono": "3153169251",
+      "empresa": "Universidad Nacional de Colombia",
+      "id": 28
+    },
+    {
+      "nombre": "carlos2",
+      "email": "carlos@gmail.com",
+      "telefono": "324234",
+      "empresa": "donde te sentaste",
+      "id": 29
+    },
+    {
+      "nombre": "kskdjfldsf",
+      "email": "skjlfsdkfq@gmail.com",
+      "telefono": "9234802394",
+      "empresa": "kjdslfjsd",
+      "id": 30
+    },
+    {
+      "nombre": "kzksdfjsdf",
+      "email": "dsfsd@cdscoc.com",
+      "telefono": "293842034",
+      "empresa": "ksjdldsfsd",
+      "id": 31
+    }
+  ]
+}
